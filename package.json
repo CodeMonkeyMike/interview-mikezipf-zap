@@ -1,0 +1,26 @@
+{
+  "name": "interview-mikezipf-zap",
+  "version": "1.0.0",
+  "description": "Interview project",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeMonkeyMike/interview-mikezipf-zap.git"
+  },
+  "author": "Mike Zipf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeMonkeyMike/interview-mikezipf-zap/issues"
+  },
+  "homepage": "https://github.com/CodeMonkeyMike/interview-mikezipf-zap#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "mocha": "^9.0.0"
+  }
+}
